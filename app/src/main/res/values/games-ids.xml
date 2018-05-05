@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_id">534452994346</string>
+    <string name="package_name">com.rcsoft.connect4</string>
+    <string name="achievement_logro_1">CgkIqoKG_8YPEAIQAw</string>
+    <!-- achievement Logro 2 -->
+    <string name="achievement_logro_2">CgkIqoKG_8YPEAIQBA</string>
+    <string name="leaderboard_my_little_leaderboard">CgkIqoKG_8YPEAIQAg</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "773373340416",
+    "firebase_url": "https://connect4-30f22.firebaseio.com",
+    "project_id": "connect4-30f22",
+    "storage_bucket": "connect4-30f22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773373340416:android:af2f2cbe030b4095",
+        "android_client_info": {
+          "package_name": "com.rcsoft.connect4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773373340416-0ojsqiuvqv829bd1qr3i2h810p79vvs6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rcsoft.connect4",
+            "certificate_hash": "67a9668bd74f027a6d0520558deab13f1e14eb44"
+          }
+        },
+        {
+          "client_id": "773373340416-mrubgddcsad4b18gqej4af5kiu1furhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKI8vNfbmwfhtncUqf3JjHoeqJj_ddMtI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773373340416-mrubgddcsad4b18gqej4af5kiu1furhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
