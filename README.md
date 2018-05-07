@@ -15,4 +15,4 @@ Connect 4 - Juego desarrollado para certificación básica de Android (Altice An
 ## Autor
 
 * **Raymond Coplin** - [Connect4-Android](https://github.com/RaymondCoplin/connect4-android)
-* Instructor: Luis Echenique
+* Instructor: **Luis Echenique**
